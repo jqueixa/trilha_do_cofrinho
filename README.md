@@ -1,4 +1,4 @@
-# Trilha do Cofrinho: Aventura Financeira para Crianças 🐷💰
+# Trilha do Cofrinho: Aventura Financeira para Crianças 
 
 Bem-vindo ao **Trilha do Cofrinho: Aventura Financeira**! Um jogo educativo de gerenciamento financeiro, projetado para ensinar noções básicas de economia de uma maneira divertida e interativa.
 
